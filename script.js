@@ -1,8 +1,8 @@
-function calculoSaldo(vitoria, derrota){
+function resultadoDosJogos(vitoria, derrota){
     return vitoria - derrota
 }
 
-let saldoVitorias = calculoSaldo(123, 41)
+let saldoVitorias = resultadoDosJogos(123, 41)
 let nivel
 
 if (saldoVitorias < 10){
