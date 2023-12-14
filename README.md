@@ -1,4 +1,4 @@
-# DIO Bootcamp | Programação do Zero
+# BOOTCAMP DIO | Potência Tech iFood - Programação do Zero
 
 ## 🏆 Calculadora de partidas Rankeadas 🏆
 **O que deve ser utilizado:**
